@@ -2,7 +2,7 @@ isCorrectHour = False
 isCorrectRate = False
 
 #Try to parse the hours value to an int number, if not try it again
-while isCorrectHour == False :
+while isCorrectHour is False :
   try: 
     hours = input("Enter hours: ")
     hours= int(hours)
