@@ -5,6 +5,6 @@ for line in han:
   wds = line.split()
 
   #Guardian
-  if len(wds) < 3  or wds[0] != "From ":
-  
-  print(wds[2])
+  if len(wds) < 3 or wds[0] != "From": 
+    continue
+  print(wds[1])
