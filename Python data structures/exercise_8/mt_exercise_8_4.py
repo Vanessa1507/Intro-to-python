@@ -2,7 +2,7 @@ fileName= input("Enter file name: ")
 wordsList= list()
 
 try:
-  file=open(fileName)
+  file=open("../../txt/"+fileName)
 
   for line in file:
     splitLine= line.split()

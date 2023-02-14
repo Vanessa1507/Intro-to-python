@@ -1,4 +1,4 @@
-file = open("./mbox-short.txt")
+file = open("../../txt/mbox-short.txt")
 
 for line in file :
   newLine = line.rstrip()
