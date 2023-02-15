@@ -1,7 +1,8 @@
-# Getting Started with Python
+# Python
 
-## Course
+## Courses
 [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python/home/week/1)
+
 [Python Data Structures](https://www.coursera.org/learn/python-data/home/info)
 
 ## Powerpoint slides 
