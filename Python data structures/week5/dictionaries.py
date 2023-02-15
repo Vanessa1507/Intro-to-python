@@ -42,11 +42,10 @@ print(counts3.values()) # dict_values([1, 42, 100])
 print(counts3.items()) # dict_items([('chuck', 1), ('fred', 42), ('jan', 100)])
 
 
+# Two iteration variables
 print("\nTwo iteration variables")
-
 for key,value in counts3.items():
   print(key,value)
   #chuck 1
   #fred 42
   #jan 100
-
