@@ -1,7 +1,7 @@
 # Python
 
 ## Courses
-[Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python/home/week/1)
+[Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python/home/info)
 
 [Python Data Structures](https://www.coursera.org/learn/python-data/home/info)
 
