@@ -1,5 +1,8 @@
 # Python
 
+## Python for everybody
+[Page](https://www.py4e.com/)
+
 ## Courses
 [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python)
 
