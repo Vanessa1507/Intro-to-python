@@ -31,6 +31,7 @@ input = '''
 </stuff>'''
 
 tree2 = ET.fromstring(input)
+#Find all user tags that are inside of the users tag
 lst = tree2.findall('users/user')
 print('User count:', len(lst))
 
